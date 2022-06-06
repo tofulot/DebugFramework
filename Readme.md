@@ -1,7 +1,8 @@
 ## How to start
 
 example
-'''
+
+ ```luau
 local Module = {} 
 local RS = game:GetService("RunService")
 function Module.Run(Plr) 
@@ -22,4 +23,4 @@ UI.Parent = Plr.PlayerGui:FindFirstChild("DebugMenu(Admin)")
 return UI
 end
 return Module 
-'''
+```
