@@ -1,6 +1,7 @@
-## heading
+## How to start
 
-example:
+example
+'''
 local Module = {} 
 local RS = game:GetService("RunService")
 function Module.Run(Plr) 
@@ -21,3 +22,4 @@ UI.Parent = Plr.PlayerGui:FindFirstChild("DebugMenu(Admin)")
 return UI
 end
 return Module 
+'''
