@@ -17,7 +17,7 @@ in order to install [DebugFramework](#DebugFramework)
 
 Example
 
- ```luau
+ ```lua
 local Module = {} 
 local RS = game:GetService("RunService")
 function Module.Run(Plr) 
