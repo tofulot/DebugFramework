@@ -1,14 +1,19 @@
 # DebugFramework
-[DebugFramework](#debugframework) is a plugin based off the [Yucon Framework](https://www.roblox.com/library/5196221650/Yucon-Coding-Framework)
-with a premade modularized system to make near perfect debug onscreen ui for simple and fast usage
+[DebugFramework](https://www.roblox.com/library/9840069360/DebugFramework) is a plugin based off the [Yucon Framework](https://www.roblox.com/library/5196221650/Yucon-Coding-Framework)
+with a premade modularized system to make near perfect debug onscreen ui for simple and fast usage so you can focus more on scripting and now debugging
 
 ### Usage
 
 
 ## Subjects
-[Install](#install) How to install [DebugFramework](#debugframework)
+[DebugFramework](#DebugFramework) Info about this plugin
+[Install](#install) How to install [DebugFramework](https://www.roblox.com/library/9840069360/DebugFramework)
 
 ## Install
+
+in order to install [DebugFramework](#DebugFramework)
+
+<br>
 
 Example
 
