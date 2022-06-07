@@ -1,19 +1,28 @@
 # DebugFramework
-[DebugFramework](https://www.roblox.com/library/9840069360/DebugFramework) is a plugin based off the [Yucon Framework](https://www.roblox.com/library/5196221650/Yucon-Coding-Framework)
+[DebugFrameworkPlugin](https://www.roblox.com/library/9840069360/DebugFramework) is a plugin based off the [Yucon FrameworkPlugin](https://www.roblox.com/library/5196221650/Yucon-Coding-Framework)
 with a premade modularized system to make near perfect debug onscreen ui for simple and fast usage so you can focus more on scripting and now debugging
 
 ### Usage
 
+After [DebugFramework](#debugframework) is installed open the plugin and add yourself using the "Whitelist" button then close it and press edit then add a new script and open the module and enjoy the plugin [Api Reference](#api)
 
 ## Subjects
-[DebugFramework](#DebugFramework) Info about this plugin
-[Install](#install) How to install [DebugFramework](https://www.roblox.com/library/9840069360/DebugFramework)
+[DebugFramework](#debugframework) Info about this plugin
+
+[Usage](#usage) Usage for this plugin
+
+[Install](#install) How to install [DebugFrameworkPlugin](https://www.roblox.com/library/9840069360/DebugFramework)
+
+[API reference](#api) good presets and tips for making debug menus
 
 ## Install
 
-in order to install [DebugFramework](#DebugFramework)
-
+in order to install [DebugFramework](#debugframework) you need to download the plugin
+```
+https://www.roblox.com/library/9840069360/DebugFramework
+```
 <br>
+
 
 Example
 
@@ -39,3 +48,5 @@ return UI
 end
 return Module 
 ```
+
+## Api
