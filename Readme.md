@@ -4,7 +4,7 @@ with a premade modularized system to make near perfect debug onscreen ui for sim
 
 ### Usage
 
-After [DebugFramework](#debugframework) is installed open the plugin and add yourself using the "Whitelist" button then close it and press edit then add a new script and open the module and enjoy the plugin [Api Reference](#api)
+After [DebugFramework](#debugframework) is installed open the plugin and add yourself using the "Whitelist" button then close it and press edit then add a new script and open the module and enjoy the plugin [Methods](#methods)
 
 ## Subjects
 [DebugFramework](#debugframework) Info about this plugin
@@ -13,7 +13,9 @@ After [DebugFramework](#debugframework) is installed open the plugin and add you
 
 [Install](#install) How to install [DebugFrameworkPlugin](https://www.roblox.com/library/9840069360/DebugFramework)
 
-[API reference](#api) good presets and tips for making debug menus
+[Methods](#methods) good presets and tips for making debug menus
+
+[Error messages](#errors) a list of errors and how to solve them
 
 ## Install
 
@@ -22,9 +24,14 @@ in order to install [DebugFramework](#debugframework) you need to download the p
 https://www.roblox.com/library/9840069360/DebugFramework
 ```
 <br>
+then once youve downloaded ope nthe plugin in the project you want it in and press the import button
 
 
-Example
+
+## Methods
+
+A good method is to create a new module for everything even if you could do it in one since 1 might not work and others wont debug
+and a good example of working module code is 
 
  ```lua
 local Module = {} 
@@ -49,4 +56,4 @@ end
 return Module 
 ```
 
-## Api
+## errors 
